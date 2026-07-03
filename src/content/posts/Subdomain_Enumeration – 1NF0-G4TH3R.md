@@ -18,7 +18,7 @@ lang: ar
 وإحنا بنستكشف الـ DNS Records كنا مركزين بشكل أساسي علي الـ main domain زي `example.com` وكل المعلومات المرتبطة بيه
 بس في الحقيقة تحت الدومين الأساسي ده في ` potential network subdomains`
 
-الـ subdomains دي عبارة عن extension للـ main domain وغالباً بتستخدم علشان تعمل تنظيم وتقسيم لأجزاء أو functionalities مختلفة جوة الموقع<dev dir="rtl">
+الـ subdomains دي عبارة عن extension للـ main domain وغالباً بتستخدم علشان تعمل تنظيم وتقسيم لأجزاء أو functionalities مختلفة جوة الموقع
  
 يعني مثلاً:
 
