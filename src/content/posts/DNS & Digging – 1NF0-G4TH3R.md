@@ -5,7 +5,7 @@ description: ‫‫Understanding DNS & dig and using them in Web Recon‬
 image: /images/posts/img_1NF0-G4TH3R/img_DNS&dig/DNS.wdmp
 tags: [DNS, dig, DNS Tools, Groping DNS]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

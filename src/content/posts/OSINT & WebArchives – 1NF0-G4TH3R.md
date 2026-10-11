@@ -5,7 +5,7 @@ description: An overview of OSINT techniques in web reconnaissance, including se
 image: /images/posts/img_1NF0-G4TH3R/Img_OSINT&WebArchives/Search-Engines.jpg.webp
 tags: [OSINT, Google Dorking, Web Archives]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

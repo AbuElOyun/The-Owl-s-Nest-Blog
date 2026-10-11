@@ -5,7 +5,7 @@ description: ‫Comprehensive introduction to Web Reconnaissance and its core ty
 image: /images/posts/img_1NF0-G4TH3R/img_Introduction/intro.jpg
 tags: [Active Recon, Passive Recon]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

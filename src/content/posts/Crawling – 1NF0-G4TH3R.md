@@ -5,7 +5,7 @@ description: A practical introduction to web crawling for reconnaissance, coveri
 image: /images/posts/img_1NF0-G4TH3R/img_Crawling/Crawling.jpg
 tags: [Web Crawling, Well-Known URLs, robots.txt, Scrapy]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

@@ -5,7 +5,7 @@ description: A hands-on guide to web fingerprinting, covering techniques like ba
 image: /images/posts/img_1NF0-G4TH3R/img_Fingerprinting/fingerprinting.webp
 tags: [wafw00f, nikto, Fingerprinting Techniques]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

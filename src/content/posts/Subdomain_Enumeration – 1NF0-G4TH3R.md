@@ -5,7 +5,7 @@ description: Discovering hidden subdomains and expanding the attack surface thro
 image: /images/posts/img_1NF0-G4TH3R/img_SubdomainEnumeration/subdomain_enumeration2.png
 tags: [Subdomains, Subdomain Bruteforcing, DNS Zone Transfers, Virtual Hosts, CT Logs]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar

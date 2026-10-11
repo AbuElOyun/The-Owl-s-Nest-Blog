@@ -5,7 +5,7 @@ description: ‫Quick guide to understanding WHOIS and analyzing domain data‬
 image: /images/posts/img_1NF0-G4TH3R/img_WHOIS/Whois.jpeg
 tags: [Record WHOIS, WHOIS Lookup]
 category: Information-Gathering Series
-draft: false
+draft: true
 pinned: false
 comment: true
 lang: ar
